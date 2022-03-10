@@ -82,6 +82,7 @@
 </div>
 @endsection
 
+
 @push('css')
     <link rel="stylesheet" href="style.css">
 @endpush
